@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surprise!</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Selamat 1 Bulan, sayangg!</h1>
+        <p>I have the best girl in the world with the cutest smile, silliest laugh, prettiest eyes, finest voice, loveliest hair, gorgeous lips+the most aborable personality ❤️</p>
+        <button onclick="showHearts()">Klik untuk kejutan!</button>
+        <div id="heartContainer"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
